@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "product 1",
+      "price": "12.34",
+      "oldPrice": "15.66",
+      "category": "vegetable",
+      "isActive": "true",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": "2",
+      "name": "product2",
+      "price": "23",
+      "oldPrice": "30",
+      "category": "fruits",
+      "isActive": "false",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": "3",
+      "name": "product3",
+      "price": "24",
+      "oldPrice": "12",
+      "category": "fish",
+      "isActive": "true",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": "4",
+      "name": "product4",
+      "price": "34",
+      "oldPrice": "12",
+      "category": "vegetable",
+      "isActive": false,
+      "description": "Lorem ipum dolor sit amet"
+    }
+  ]
+}
